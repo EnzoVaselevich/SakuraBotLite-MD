@@ -106,5 +106,5 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 ## `🌻𝑷𝒓𝒐𝒑𝒊𝒆𝒕𝒂𝒓𝒊𝒐 𝑫𝒆𝒍 𝑩𝒐𝒕🚀` 
-<a href="https://github.com/diegojadibot"><img src="https://github.com/diegojadibot.png" width="250" height="250" alt="Diego"/></a>
+<a href="https://github.com/Diego-YL-177"><img src="https://github.com/Diego-YL-177.png" width="250" height="250" alt="Diego"/></a>
   
