@@ -12,22 +12,23 @@ import { es } from "./lib/idiomas/total-idiomas.js"
 global.botnumber = ""
 
 global.owner = [ 
-  ['573013114854', '♡ ᭄𝐃𝐢𝐞𝐠𝐨 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 ♡᭄ ', true],
- ['573218138672', '𝐒𝐁-𝐀𝐒𝐈𝐒𝐓𝐄𝐍𝐂𝐈𝐀', true]]
+['000', '♡ ᭄𝐃𝐢𝐞𝐠𝐨 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 ♡᭄ ', true],
+['00', '𝐒𝐁-𝐀𝐒𝐈𝐒𝐓𝐄𝐍𝐂𝐈𝐀', true]]
 
-global.suittag = ['573013114854'];
-global.prems = ['573218138672'];
+global.suittag = ['573013114854']
+global.prems = []
+global.mods = []
 
-global.lenguajeSK = es //idioma de sakurabot
+global.lenguajeYL = es //idioma de sakurabot
 
-global.packname = '𝕾𝖆𝖐𝖚𝖗𝖆-𝕭𝖔𝖙-𝕷𝖎𝖙𝖊-𝕸𝕯🌻✨️';
-global.author = '𝔇𝔦𝔢𝔤𝔬𝔒𝔣𝔦𝔠𝔦𝔞𝔩';
+global.packname = '𝗦𝗮𝗸𝘂𝗿𝗮𝗕𝗼𝘁𝗟𝗶𝘁𝗲-𝗠𝗗 🍁💖';
+global.author = 'Oғᴄ.Dɪᴇɢᴏ';
 global.wm = '𝕾𝖆𝖐𝖚𝖗𝖆-𝕭𝖔𝖙-𝕷𝖎𝖙𝖊-𝕸𝕯';
 global.titulowm = '𝕾𝖆𝖐𝖚𝖗𝖆-𝕭𝖔𝖙-𝕷𝖎𝖙𝖊-𝕸𝕯';
-global.titulowm2 = `𝔇𝔦𝔢𝔤𝔬𝔒𝔣𝔦𝔠𝔦𝔞𝔩`
-global.igfg = '𝔇𝔦𝔢𝔤𝔬𝔒𝔣𝔦𝔠𝔦𝔞𝔩';
-global.wait = '*🪁 𝐄𝐬𝐩𝐞𝐫𝐞 𝐄𝐬𝐭𝐚 𝐂𝐚𝐫𝐠𝐚𝐧𝐝𝐨 ฅ^•ﻌ•^ฅ...*';
-global.vs = '2.9';
+global.titulowm2 = `Oғᴄ.Dɪᴇɢᴏ`
+global.igfg = 'Dɪᴇɢᴏ.Oғᴄ';
+global.wait = '🕒 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼....';
+global.vs = '1.0.5';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
@@ -35,8 +36,6 @@ global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
 global.imagen4 = fs.readFileSync('./Menu.png');
 global.imagen5 = fs.readFileSync('./src/+18.jpg');
 global.imagen6 = fs.readFileSync('./Menu3.png');
-
-global.mods = [];
 
 //* *******Tiempo***************
 global.d = new Date(new Date + 3600000);
@@ -50,11 +49,11 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 global.wm2 = `${dia} ${fecha}\nSakuritaBot`;
 global.gt = 'SakuraBot';
 global.mysticbot = 'SakuraBot';
-global.md = 'https://github.com/diegojadibot/SakuraBotLite-MD';
-global.mysticbot = 'https://github.com/diegojadibot/SakuraBotLite-MD';
-global.waitt = '*🪁 𝐄𝐬𝐩𝐞𝐫𝐞 𝐄𝐬𝐭𝐚 𝐂𝐚𝐫𝐠𝐚𝐧𝐝𝐨 ฅ^•ﻌ•^ฅ...*';
-global.waittt = '*🪁 𝐄𝐬𝐩𝐞𝐫𝐞 𝐄𝐬𝐭𝐚 𝐂𝐚𝐫𝐠𝐚𝐧𝐝𝐨 ฅ^•ﻌ•^ฅ...*';
-global.waitttt = '*🪁 𝐄𝐬𝐩𝐞𝐫𝐞 𝐄𝐬𝐭𝐚 𝐂𝐚𝐫𝐠𝐚𝐧𝐝𝐨 ฅ^•ﻌ•^ฅ...*';
+global.md = 'https://github.com/Diego-YL-177/SakuraBotLite-MD';
+global.mysticbot = 'https://github.com/Diego-YL-177/SakuraBotLite-MD';
+global.waitt = '🕒 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼...';
+global.waittt = '🕒 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼...';
+global.waitttt = '🕒 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼...';
 global.nomorown = '573013114854';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
@@ -70,8 +69,8 @@ global.htki = '*⭑•̩̩͙⊱•••• ☪*';
 global.htka = '*☪ ••••̩̩͙⊰•⭑*';
 global.comienzo = '• • ◕◕════';
 global.fin = '════◕◕ • •';
-global.botdate = `*[ 📅 ] Fecha:*  ${moment.tz('America/Mexico_City').format('DD/MM/YY')}`;
-global.bottime = `*[ ⏳ ] Hora:* ${moment.tz('America/Mexico_City').format('HH:mm:ss')}`;
+global.botdate = `${moment.tz('America/Mexico_City').format('DD/MM/YY')}`;
+global.bottime = `${moment.tz('America/Mexico_City').format('HH:mm:ss')}`;
 global.fgif = {key: {participant: '0@s.whatsapp.net'}, message: {'videoMessage': {'title': wm, 'h': `Hmm`, 'seconds': '999999999', 'gifPlayback': 'true', 'caption': bottime, 'jpegThumbnail': fs.readFileSync('./Menu.png')}}};
 global.multiplier = 99;
 global.flaaa = [
