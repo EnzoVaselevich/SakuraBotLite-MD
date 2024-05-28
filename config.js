@@ -48,9 +48,9 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nSakuritaBot`;
 global.gt = 'SakuraBot';
-global.mysticbot = 'SakuraBot';
+global.sakirabot = 'SakuraBot';
 global.md = 'https://github.com/Diego-YL-177/SakuraBotLite-MD';
-global.mysticbot = 'https://github.com/Diego-YL-177/SakuraBotLite-MD';
+global.sakurabot = 'https://github.com/Diego-YL-177/SakuraBotLite-MD';
 global.waitt = '🕒 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼...';
 global.waittt = '🕒 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼...';
 global.waitttt = '🕒 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼...';
