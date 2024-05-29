@@ -67,5 +67,5 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a
 href="https://github.com/Diego-YL-177"><img src="https://github.com/Diego-YL-177.png" width="200" height="200" alt="Diego"/></a>
 
-## Agradecimiento De La Base. ✨️     
+### Agradecimiento De La Base. ✨️     
 [![BrunoSobrino](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) 
