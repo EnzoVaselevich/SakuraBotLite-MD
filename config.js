@@ -20,10 +20,10 @@ global.mods = []
 
 global.lenguajeYL = es //idioma de sakurabot
 
-global.packname = '𝑨𝒔𝒉-𝑲𝒂𝒕𝒄𝒉𝒖𝒎𝑩𝒐𝒕-𝑴𝑫 🍁💖';
+global.packname = '𝑨𝒔𝒉-𝑲𝒆𝒕𝒄𝒉𝒖𝒎𝑩𝒐𝒕-𝑴𝑫 🍁💖';
 global.author = 'By:Enzito';
-global.wm = '𝐀𝐬𝐡-𝐊𝐚𝐭𝐜𝐡𝐮𝐦𝐁𝐨𝐭-𝐌𝐃';
-global.titulowm = '𝐀𝐬𝐡-𝐊𝐚𝐭𝐜𝐡𝐮𝐦𝐁𝐨𝐭-𝐌𝐃';
+global.wm = '𝐀𝐬𝐡-𝐊𝐞𝐭𝐜𝐡𝐮𝐦𝐁𝐨𝐭-𝐌𝐃';
+global.titulowm = '𝐀𝐬𝐡-𝐊𝐞𝐭𝐜𝐡𝐮𝐦𝐁𝐨𝐭-𝐌𝐃';
 global.titulowm2 = `By: EnzitoOFICIAL`
 global.igfg = 'By:EnzitoOFC';
 global.wait = '🕒 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼....';
