@@ -12,21 +12,20 @@ import { es } from "./lib/idiomas/total-idiomas.js"
 global.botnumber = ""
 
 global.owner = [ 
-['000', '♡ ᭄𝐃𝐢𝐞𝐠𝐨 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 ♡᭄ ', true],
-['00', '𝐒𝐁-𝐀𝐒𝐈𝐒𝐓𝐄𝐍𝐂𝐈𝐀', true]]
+['+5491168758497', '♡ ᭄Enzito ♡᭄ ', true]]
 
-global.suittag = ['573013114854']
+global.suittag = ['5491130182250']
 global.prems = []
 global.mods = []
 
 global.lenguajeYL = es //idioma de sakurabot
 
-global.packname = '𝗦𝗮𝗸𝘂𝗿𝗮𝗕𝗼𝘁𝗟𝗶𝘁𝗲-𝗠𝗗 🍁💖';
-global.author = 'Oғᴄ.Dɪᴇɢᴏ';
-global.wm = '𝕾𝖆𝖐𝖚𝖗𝖆-𝕭𝖔𝖙-𝕷𝖎𝖙𝖊-𝕸𝕯';
-global.titulowm = '𝕾𝖆𝖐𝖚𝖗𝖆-𝕭𝖔𝖙-𝕷𝖎𝖙𝖊-𝕸𝕯';
-global.titulowm2 = `Oғᴄ.Dɪᴇɢᴏ`
-global.igfg = 'Dɪᴇɢᴏ.Oғᴄ';
+global.packname = '𝑨𝒔𝒉-𝑲𝒂𝒕𝒄𝒉𝒖𝒎𝑩𝒐𝒕-𝑴𝑫 🍁💖';
+global.author = 'By:Enzito';
+global.wm = '𝐀𝐬𝐡-𝐊𝐚𝐭𝐜𝐡𝐮𝐦𝐁𝐨𝐭-𝐌𝐃';
+global.titulowm = '𝐀𝐬𝐡-𝐊𝐚𝐭𝐜𝐡𝐮𝐦𝐁𝐨𝐭-𝐌𝐃';
+global.titulowm2 = `By: EnzitoOFICIAL`
+global.igfg = 'By:EnzitoOFC';
 global.wait = '🕒 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼....';
 global.vs = '1.0.5';
 
