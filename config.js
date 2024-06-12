@@ -8,7 +8,7 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 import { es } from "./lib/idiomas/total-idiomas.js"
 
-global.owner = ['00000000']]
+global.owner = [['00000000']]
 
 global.suittag = []
 global.prems = []
