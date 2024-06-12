@@ -8,13 +8,9 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 import { es } from "./lib/idiomas/total-idiomas.js"
 
+global.owner = ['00000000']]
 
-global.botnumber = ""
-
-global.owner = [ 
-['+5491168758497', '♡ ᭄Enzito ♡᭄ ', true]]
-
-global.suittag = ['5491130182250']
+global.suittag = []
 global.prems = []
 global.mods = []
 
