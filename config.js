@@ -43,10 +43,10 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nSakuritaBot`;
-global.gt = 'SakuraBot';
-global.sakirabot = 'SakuraBot';
-global.md = 'https://github.com/Diego-YL-177/SakuraBotLite-MD';
-global.sakurabot = 'https://github.com/Diego-YL-177/SakuraBotLite-MD';
+global.gt = 'NilouBot';
+global.sakirabot = 'NilouBot';
+global.md = 'https://chat.whatsapp.com/IICmKudSbuGBFKMPZitp0h';
+global.sakurabot = 'https://chat.whatsapp.com/IICmKudSbuGBFKMPZitp0h';
 global.waitt = '🕒 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼...';
 global.waittt = '🕒 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼...';
 global.waitttt = '🕒 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼...';
