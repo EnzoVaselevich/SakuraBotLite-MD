@@ -8,7 +8,8 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 import { es } from "./lib/idiomas/total-idiomas.js"
 
-global.owner = [['00000000']]
+global.owner = [
+  ['5491168758497', '𝐎𝐰𝐧𝐞𝐫 - 𝐂𝐫𝐞𝐚𝐝𝐨𝐫', true]] 
 
 global.suittag = []
 global.prems = []
@@ -16,10 +17,10 @@ global.mods = []
 
 global.lenguajeYL = es //idioma de sakurabot
 
-global.packname = '𝑨𝒔𝒉-𝑲𝒆𝒕𝒄𝒉𝒖𝒎𝑩𝒐𝒕-𝑴𝑫 🍁💖';
+global.packname = '✞ঔৣ 𝑀𝒽𝓀𝓃𝓉𝒜𝓃𝓈-𝐿𝒞 ঔৣ✞';
 global.author = 'By:Enzito';
-global.wm = '𝐀𝐬𝐡-𝐊𝐞𝐭𝐜𝐡𝐮𝐦𝐁𝐨𝐭-𝐌𝐃';
-global.titulowm = '𝐀𝐬𝐡-𝐊𝐞𝐭𝐜𝐡𝐮𝐦𝐁𝐨𝐭-𝐌𝐃';
+global.wm = '🍧 Ｎ𝓲𝓵𝓸𝓾Ｂ𝓸𝓽-ＭＤ 🍭';
+global.titulowm = '🌸 𝒩𝒾𝓁𝑜𝓊𝐵𝑜𝓉-𝑀𝒟 🪷';
 global.titulowm2 = `By: EnzitoOFICIAL`
 global.igfg = 'By:EnzitoOFC';
 global.wait = '🕒 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼....';
