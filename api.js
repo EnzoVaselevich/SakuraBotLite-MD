@@ -262,7 +262,7 @@ global.rpgshop = { // Tienda
       berlian: '♦️ Joya',
       kyubi: '🌀 Magia',
       gold: '👑 Oro',
-      money: '👾 SakuCoins',
+      money: '👾 NilouCoins',
       tiketcoin: '🎫 Nilou Tickers',
       stamina: '✨ Energía',
       potion: '🥤 Poción',
