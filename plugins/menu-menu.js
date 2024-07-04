@@ -181,7 +181,7 @@ const who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ?
 
 const pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/3bb73f684a01d1dcf0f48.jpg')
 
-await conn.reply(m.chat, '*ꪹ͜𓂃͡𝗖𝗮𝗿𝗴𝗮𝗻𝗱𝗼 𝗘𝗹 𝗠𝗲𝗻𝘂 𝗗𝗲𝗹 𝗕𝗼𝘁...𓏲੭*', fkontak, { contextInfo:{ forwardingScore: 2022, isForwarded: true, externalAdReply: {title: '✰્᭄͜͡ 𝐀𝐒𝐇 - 𝐊𝐄𝐓𝐂𝐇𝐔𝐌 - 𝐁𝐎𝐓 - 𝐌𝐃 🌟', body: '🍒 Bienvenido ' + name, sourceUrl: global.md, thumbnail: await (await fetch(pp)).buffer() }}})
+await conn.reply(m.chat, '*ꪹ͜𓂃͡𝗖𝗮𝗿𝗴𝗮𝗻𝗱𝗼 𝗘𝗹 𝗠𝗲𝗻𝘂 𝗗𝗲𝗹 𝗕𝗼𝘁...𓏲੭*', fkontak, { contextInfo:{ forwardingScore: 2022, isForwarded: true, externalAdReply: {title: '✰્᭄͜͡ 𝐍𝐈𝐋𝐎𝐔 - 𝐁𝐎𝐓 - 𝐌𝐃 🌟', body: '🍒 Bienvenido ' + name, sourceUrl: global.md, thumbnail: await (await fetch(pp)).buffer() }}})
 
 m.react('🌠') 
 
