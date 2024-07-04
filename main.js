@@ -320,7 +320,7 @@ if (opcion == '1' || methodCodeQR) {
    if (connection == 'open') {
 //await conn.groupAcceptInvite('Eaa9JFA53ps7WHMv2VHbO9')
 console.log(chalk.bold.cyan('\n╭┈ ┈ ┈ ┈ ┈ • 𝗡𝗶𝗹𝗼𝘂𝗕𝗼𝘁-𝗠𝗗 🪷 • ┈ ┈ ┈ ┈ ┈ ┈╮\n┊ LA BOT YA ESTÁ CONECTADA AL WHATSAPP 🔵\n╰┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈╯\n'))
-//conn.fakeReply('573012482694@s.whatsapp.net', '😄', '0@s.whatsapp.net', '😸 Soy Yoshiko\nRecientemente Me E Conectado', '0@s.whatsapp.net')
+//conn.fakeReply('5491168758497@s.whatsapp.net', '😄', '0@s.whatsapp.net', '😸 Soy NilouBot\nRecientemente Me E Conectado', '0@s.whatsapp.net')
    }
 let reason = new Boom(lastDisconnect?.error)?.output?.statusCode;
 if (reason == 405) {
