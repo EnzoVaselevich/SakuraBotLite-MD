@@ -65,7 +65,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ### Editor Y Propietario De La Bot 🌹⚡️
 <a
-href="https://github.com/Diego-YL-177"><img src="https://github.com/Diego-YL-177.png" width="200" height="200" alt="Diego"/></a>
+href="https://github.com/OfcDiego"><img src="https://github.com/OfcDiego.png" width="200" height="200" alt="Diego"/></a>
 
 ### Agradecimiento De La Base. ✨️     
 [![BrunoSobrino](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) 
