@@ -16,56 +16,9 @@
 - ### ⚙️ Configuracion
  Clonar Repo : Sakura [Aqui.](https://github.com/Diego-YL-177/SakuraBotLite-MD/fork)
 
-- ### 💻 Instalacion Por Termux
-
-[![blog](https://img.shields.io/badge/Instalacion-Yoshiko-FFFF00?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/9-v4XwMTJYE?si=STdO2GwZR1GAmXfA)
-
-[`🏷 Instalar Termux Clic Aqui`](https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file)
-
-> ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-
-```bash
-termux-setup-storage
-```
-```bash
-apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
-```
-```bash
-git clone https://github.com/Diego-YL-177/SakuraBotLite-MD && cd SakuraBotLite-MD
-```
-```bash
-yarn install && npm install
-```
-```bash
-npm start
-```
-
-- #### 🌀 Activar En Caso De Detenerse En Termux
-```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd SakuraBotLite-MD
-> npm start
-```
-
-- ### 🌻 Obtener Otro Codigo Qr 
-```bash
-> ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd SakuraBotLite-MD
-> rm -rf SakuraSession
-> npm start
-```
-
-- ### 🚀 Usar SakuraBot 24/7 En Termux 
-```bash
-> termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
-``` 
----------
-
 ### Editor Y Propietario De La Bot 🌹⚡️
 <a
-href="https://github.com/OfcDiego"><img src="https://github.com/OfcDiego.png" width="200" height="200" alt="Diego"/></a>
+href="https://github.com/Dev-Diego/YaemoriBot-MD"><img src="https://github.com/Dev-Diego.png" width="200" height="200" alt="Diego"/></a>
 
 ### Agradecimiento De La Base. ✨️     
-[![BrunoSobrino](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) 
+[![GataDios](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li/GataBot-MD) 
