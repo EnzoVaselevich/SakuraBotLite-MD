@@ -21,4 +21,4 @@
 href="https://github.com/Dev-Diego/YaemoriBot-MD"><img src="https://github.com/Dev-Diego.png" width="200" height="200" alt="Diego"/></a>
 
 ### Agradecimiento De La Base. ✨️     
-[![GataDios](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li/GataBot-MD) 
+[![BrunoSobrino](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino/TheMystic-Bot-MD) 
